@@ -7,7 +7,7 @@ This mod implements ForceTube/Provolver haptics for Rifles, single pistols and v
 REQUIREMENTS:
 - Crisis VRigade 2 on steam os. Paid for licenced version.
 - BepInEx 6.x for Unity IL2CPP (must be installed separately)
-- ForceTube VR hardware (optional, but recommended)
+- ForceTube or Provolver VR hardware (optional but the whole point really)
 INSTALLATION:
 1. Install BepInEx 6.x for Unity IL2CPP into Crisis VRigade 2 first
    Download from: https://github.com/BepInEx/BepInEx/releases
