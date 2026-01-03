@@ -12,12 +12,12 @@ REQUIREMENTS:
 INSTALLATION:
 1. Install BepInEx 6.x for Unity IL2CPP into Crisis VRigade 2 first
    Download from: https://github.com/BepInEx/BepInEx/releases
-   (Look for BepInEx_UnityIL2CPP_x64_...)
+   (Look for BepInEx_UnityIL2CPP_x64_...) and run the game to create folders
 
-2. Extract THIS ZIP to your Crisis VRigade 2 game folder
+3. Extract THIS ZIP to your Crisis VRigade 2 game folder
    Default location e.g: C:\Program Files (x86)\Steam\steamapps\common\Crisis VRigade 2\
 
-3. The files should be found as below after extraction into the games root folder:
+4. The files should be found as below after extraction into the games root folder:
    Crisis VRigade 2\
    ├── BepInEx\
    │   ├── plugins\
