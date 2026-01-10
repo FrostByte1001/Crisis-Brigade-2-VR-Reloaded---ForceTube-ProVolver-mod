@@ -1,0 +1,12 @@
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\bin\Debug\net6.0\ForceTubePatch.deps.json
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\bin\Debug\net6.0\ForceTubePatch.dll
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\bin\Debug\net6.0\ForceTubePatch.pdb
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\obj\Debug\net6.0\ForceTubePatch.csproj.AssemblyReference.cache
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\obj\Debug\net6.0\ForceTubePatch.GeneratedMSBuildEditorConfig.editorconfig
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\obj\Debug\net6.0\ForceTubePatch.AssemblyInfoInputs.cache
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\obj\Debug\net6.0\ForceTubePatch.AssemblyInfo.cs
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\obj\Debug\net6.0\ForceTubePatch.csproj.CoreCompileInputs.cache
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\obj\Debug\net6.0\ForceTubePatch.dll
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\obj\Debug\net6.0\refint\ForceTubePatch.dll
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\obj\Debug\net6.0\ForceTubePatch.pdb
+I:\Development\Projects\CrisisVRigade2\ForceTubePatch\obj\Debug\net6.0\ref\ForceTubePatch.dll
